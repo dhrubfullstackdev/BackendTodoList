@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Web Development\\InterViewPrep\\Backend\\BackendTodoList\\BackendTodoList\\BackendTodoList.csproj": {}
+    "F:\\Web_Development\\InterViewPrep\\Backend\\ToDo\\New folder\\BackendTodoList\\BackendTodoList.csproj": {}
   },
   "projects": {
-    "G:\\Web Development\\InterViewPrep\\Backend\\BackendTodoList\\BackendTodoList\\BackendTodoList.csproj": {
+    "F:\\Web_Development\\InterViewPrep\\Backend\\ToDo\\New folder\\BackendTodoList\\BackendTodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Web Development\\InterViewPrep\\Backend\\BackendTodoList\\BackendTodoList\\BackendTodoList.csproj",
+        "projectUniqueName": "F:\\Web_Development\\InterViewPrep\\Backend\\ToDo\\New folder\\BackendTodoList\\BackendTodoList.csproj",
         "projectName": "BackendTodoList",
-        "projectPath": "G:\\Web Development\\InterViewPrep\\Backend\\BackendTodoList\\BackendTodoList\\BackendTodoList.csproj",
+        "projectPath": "F:\\Web_Development\\InterViewPrep\\Backend\\ToDo\\New folder\\BackendTodoList\\BackendTodoList.csproj",
         "packagesPath": "C:\\Users\\Dhrub\\.nuget\\packages\\",
-        "outputPath": "G:\\Web Development\\InterViewPrep\\Backend\\BackendTodoList\\BackendTodoList\\obj\\",
+        "outputPath": "F:\\Web_Development\\InterViewPrep\\Backend\\ToDo\\New folder\\BackendTodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhrub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,21 +34,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -60,6 +73,10 @@
               "target": "Package",
               "version": "[1.19.5, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -67,6 +84,10 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
               "target": "Package",
               "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
             }
           },
           "imports": [
@@ -88,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

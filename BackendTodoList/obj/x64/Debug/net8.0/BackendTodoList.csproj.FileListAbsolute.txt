@@ -1,0 +1,350 @@
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.Development.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.exe
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.deps.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.runtimeconfig.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.pdb
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Humanizer.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Mono.TextTemplating.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.CodeDom.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Convention.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Hosting.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Runtime.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.AssemblyReference.cache
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfoInputs.cache
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfo.cs
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.CoreCompileInputs.cache
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.MvcApplicationPartsAssemblyInfo.cache
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.build.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.development.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.BackendTodoList.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.build.BackendTodoList.props
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendTodoList.props
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendTodoList.props
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.pack.json
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\scopedcss\bundle\BackendTodoList.styles.css
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.CopyComplete
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\refint\BackendTodoList.dll
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.pdb
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.genruntimeconfig.cache
+G:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\ref\BackendTodoList.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.Development.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.exe
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.deps.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.runtimeconfig.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.pdb
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Humanizer.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Mono.TextTemplating.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.CodeDom.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Convention.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Hosting.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Runtime.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.AssemblyReference.cache
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfoInputs.cache
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfo.cs
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.CoreCompileInputs.cache
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.MvcApplicationPartsAssemblyInfo.cache
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.build.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.development.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.BackendTodoList.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.build.BackendTodoList.props
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendTodoList.props
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendTodoList.props
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.pack.json
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\scopedcss\bundle\BackendTodoList.styles.css
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendT.D59171DF.Up2Date
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\refint\BackendTodoList.dll
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.pdb
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.genruntimeconfig.cache
+F:\Web Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\ref\BackendTodoList.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.Development.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\appsettings.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.exe
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.deps.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.runtimeconfig.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\BackendTodoList.pdb
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Azure.Core.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Azure.Identity.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Humanizer.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Mono.TextTemplating.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Newtonsoft.Json.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.CodeDom.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Convention.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Hosting.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.Runtime.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Drawing.Common.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Memory.Data.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Runtime.Caching.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Security.Permissions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\System.Windows.Extensions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.AssemblyReference.cache
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfoInputs.cache
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.AssemblyInfo.cs
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.csproj.CoreCompileInputs.cache
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.MvcApplicationPartsAssemblyInfo.cs
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.MvcApplicationPartsAssemblyInfo.cache
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.build.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.development.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.BackendTodoList.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.build.BackendTodoList.props
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendTodoList.props
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendTodoList.props
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\staticwebassets.pack.json
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\scopedcss\bundle\BackendTodoList.styles.css
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendT.D59171DF.Up2Date
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\refint\BackendTodoList.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.pdb
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\BackendTodoList.genruntimeconfig.cache
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\obj\x64\Debug\net8.0\ref\BackendTodoList.dll
+F:\Web_Development\InterViewPrep\Backend\BackendTodoList\BackendTodoList\bin\x64\Debug\net8.0\AutoMapper.dll
