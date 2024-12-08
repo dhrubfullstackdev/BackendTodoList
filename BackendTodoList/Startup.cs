@@ -23,6 +23,15 @@ namespace BackendTodoList
             // Add support for controllers
             services.AddScoped<IUserService, UserService>();
             services.AddAutoMapper(typeof(MappingModel));
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", builder =>
+                {
+                    builder.AllowAnyOrigin()
+                           .AllowAnyHeader()
+                           .AllowAnyMethod();
+                });
+            });            
             services.AddControllers();
 
             // Register Swagger
@@ -61,12 +70,13 @@ namespace BackendTodoList
             });
 
             app.UseRouting();
-
+            app.UseCors("AllowAll");
             // Configure controller endpoints
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers(); // Maps controllers to endpoints
             });
+
         }
     }
 }

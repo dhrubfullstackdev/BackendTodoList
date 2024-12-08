@@ -27,7 +27,8 @@ namespace BackendTodoList.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TaskDto>>> GetTasks()
         {
-            var tasks = await _context.Tasks.ToListAsync();
+            var tasks = await _context.Tasks.OrderByDescending(t => t.TaskId) // Replace with desired property
+                               .ToListAsync();
             return Ok(_mapper.Map<IEnumerable<TaskDto>>(tasks));
         }
 
@@ -51,17 +52,16 @@ namespace BackendTodoList.Controllers
         }
 
         // PUT: api/task/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTask(int id, TaskDto taskDto)
-        {
-            if (id != taskDto.TaskId) return BadRequest();
-            var task = await _context.Tasks.FindAsync(id);
+        [HttpPut]
+        public async Task<IActionResult> UpdateTask(TaskDto taskDto)
+        { 
+            var task = await _context.Tasks.FindAsync(taskDto.TaskId);
             if (task == null) return NotFound();
 
             _mapper.Map(taskDto, task);
             await _context.SaveChangesAsync();
-
-            return NoContent();
+            var updatedTask = _mapper.Map<TaskDto>(task);
+            return Ok(updatedTask);
         }
 
         // DELETE: api/task/5
@@ -73,7 +73,6 @@ namespace BackendTodoList.Controllers
 
             _context.Tasks.Remove(task);
             await _context.SaveChangesAsync();
-
             return NoContent();
         }
     }

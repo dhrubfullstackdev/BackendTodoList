@@ -33,7 +33,7 @@ namespace BackendTodoList
 
             modelBuilder.Entity<Tasks>()
                 .Property(t => t.Priority)
-                .HasDefaultValue(Priority.Medium);
+                .HasDefaultValue(Priority.Low);
         }
     }
      

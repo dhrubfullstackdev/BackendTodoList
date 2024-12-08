@@ -156,6 +156,22 @@
   },
   {
     "ContainingType": "BackendTodoList.Controllers.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/Task",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskDto",
+        "Type": "BackendTodoList.Dtos.TaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendTodoList.Controllers.TaskController",
     "Method": "GetTask",
     "RelativePath": "api/Task/{id}",
     "HttpMethod": "GET",
@@ -179,27 +195,6 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "BackendTodoList.Controllers.TaskController",
-    "Method": "UpdateTask",
-    "RelativePath": "api/Task/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "taskDto",
-        "Type": "BackendTodoList.Dtos.TaskDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   },
   {
     "ContainingType": "BackendTodoList.Controllers.TaskController",
